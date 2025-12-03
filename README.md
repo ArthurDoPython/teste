@@ -1,1 +1,1 @@
-# teste
+Uma classe em Python é uma forma de criar um tipo de objeto com suas próprias características e comportamentos. Ela funciona como um molde: através da classe, podemos criar vários objetos iguais, cada um com seus próprios dados, e com ações que eles sabem fazer. Em resumo, uma classe serve para organizar e estruturar o código, facilitando a criação de objetos e o funcionamento do programa orientado a objetos.
