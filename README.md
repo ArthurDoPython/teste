@@ -11,4 +11,8 @@ e) Encapsulamento é proteger e organizar os dados de uma classe, controlando qu
 
 2
 class user:
- def__init__(self,name
+ def__init__(self,name,cpf):
+  cpf = input("digite o seu cpf: ")
+  name = input("digite o seu nome: ")
+  adress = input("digite seu endereço: ")
+  password = input("digite sua senha: ")
